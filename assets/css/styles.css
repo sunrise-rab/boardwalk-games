@@ -24,7 +24,7 @@ p{
 .sub-heading-color{
     color: var(--secondary-color);
 }
-/*grid visualasation*/
+/* grid visualasation
 .container,
 .row{
     border: 2px solid black;
@@ -33,4 +33,5 @@ p{
 .col-12{
     border: 2px solid white;
     background-color: lightgrey;
-}
+} */
+
