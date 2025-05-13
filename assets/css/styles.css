@@ -16,13 +16,18 @@ body{
 h1, h2, h3{
     font-family: var(--secondary-font);
     color: var(--primary-color);
+    text-transform: uppercase;
 
 }
-p{
+/* p{
     border: 2px solid var(--primary-color);
-}
+} */
 .sub-heading-color{
     color: var(--secondary-color);
+}
+.section{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 /* navbar */
 #navbar{
@@ -31,8 +36,13 @@ p{
 #navbar .logo{
     width: 30px;
 }
+/* header*/
+#header .lead{
+    font-family:var(--secondary-font) ;
+}
+
 /* grid visualasation */
-.container,
+/* .container,
 .row{
     border: 2px solid black;
 
@@ -40,5 +50,5 @@ p{
 .col-12{
     border: 2px solid white;
     background-color: lightgrey;
-}
+} */
 
