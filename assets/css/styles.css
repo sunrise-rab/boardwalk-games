@@ -94,6 +94,7 @@ margin-right: 15px;
 
 }
 
+
 /* grid visualasation */
 /* .container,
 .row{
@@ -116,6 +117,11 @@ margin-right: 15px;
     /*make all service cards the same height for consistency*/
     #services .card-body{
         min-height: auto;
+    }
+
+   /* make navbar take full width at 992 breakpiont*/
+    #navbar .container{
+        min-width:auto;
     }
 }
 
